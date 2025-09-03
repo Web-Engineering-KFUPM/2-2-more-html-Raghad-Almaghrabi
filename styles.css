@@ -94,7 +94,7 @@ textarea { min-height: 100px; }
 
 .btn {
   background: var(--primary);
-  color: white;
+
   padding: 10px 16px;
   border: none;
   border-radius: 8px;
@@ -109,4 +109,5 @@ footer {
   border-top: 1px solid var(--border);
   padding-top: 12px;
   color: var(--muted);
+    background-color: red;
 }
